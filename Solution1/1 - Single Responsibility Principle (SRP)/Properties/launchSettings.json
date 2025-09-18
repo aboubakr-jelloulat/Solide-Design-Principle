@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1 - Single Responsibility Principle (SRP)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

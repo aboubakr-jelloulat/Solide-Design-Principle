@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\bin\Debug\net10.0\1 - Single Responsibility Principle (SRP).exe
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\bin\Debug\net10.0\1 - Single Responsibility Principle (SRP).deps.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\bin\Debug\net10.0\1 - Single Responsibility Principle (SRP).runtimeconfig.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\bin\Debug\net10.0\1 - Single Responsibility Principle (SRP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\bin\Debug\net10.0\1 - Single Responsibility Principle (SRP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).AssemblyInfo.cs
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).sourcelink.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\refint\1 - Single Responsibility Principle (SRP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\1 - Single Responsibility Principle (SRP).genruntimeconfig.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\1 - Single Responsibility Principle (SRP)\obj\Debug\net10.0\ref\1 - Single Responsibility Principle (SRP).dll
