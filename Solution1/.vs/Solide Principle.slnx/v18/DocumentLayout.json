@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\1 - single responsibility principle (srp)\\notification service\\notification-service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|solutionrelative:1 - single responsibility principle (srp)\\notification service\\notification-service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\1 - single responsibility principle (srp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|solutionrelative:1 - single responsibility principle (srp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\1 - single responsibility principle (srp)\\login service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|solutionrelative:1 - single responsibility principle (srp)\\login service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Program.cs",
               "RelativeDocumentMoniker": "1 - Single Responsibility Principle (SRP)\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Program.cs",
-              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Program.cs*",
+              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T15:30:30.648Z",
               "EditorCaption": ""
@@ -51,15 +51,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Notification-Service.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
-              "RelativeDocumentMoniker": "1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
-              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAABVAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
+              "RelativeDocumentMoniker": "1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
+              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T14:58:29.318Z",
+              "WhenOpened": "2025-09-18T14:54:10.895Z",
               "EditorCaption": ""
             }
           ]

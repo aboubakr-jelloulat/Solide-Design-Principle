@@ -1,4 +1,5 @@
 ﻿using Single_Responsibility_Principle_SRP.Notification_Service;
+using _1___Single_Responsibility_Principle__SRP_.Login_Service;
 
 namespace _1___Single_Responsibility_Principle__SRP_
 {
@@ -33,11 +34,13 @@ namespace _1___Single_Responsibility_Principle__SRP_
 
         static void Main(string[] args)
         {
-            NotificationDemo.RunNotificationService();
+            // NotificationDemo.RunNotificationService();
+
+            LogginDemo.RunLogginService();
 
 
-
+            Console.ReadKey();
         }
-
     }
 }
+
