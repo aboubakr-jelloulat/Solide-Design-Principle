@@ -5,7 +5,7 @@ using System.Text;
 namespace Single_Responsibility_Principle_SRP.Notification_Service
 {
 
-    public class NotificationService
+    internal class NotificationService
     {
         public enum enNotificationType { Email, SMS, Fax }
 
