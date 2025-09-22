@@ -1,4 +1,5 @@
-﻿using _2_Open_Closed_Principle__OCP_.Notification_Service;
+﻿using _2_Open_Closed_Principle__OCP_.Logging_Service;
+using _2_Open_Closed_Principle__OCP_.Notification_Service;
 
 namespace _2_Open_Closed_Principle__OCP_
 {
@@ -7,7 +8,11 @@ namespace _2_Open_Closed_Principle__OCP_
         static void Main(string[] args)
         {
 
-            clsNotificationService.NotificationServiceDemo();
+            // clsNotificationService.NotificationServiceDemo();
+
+
+            clsLoggingService.LoggingServiceDemo();
+
 
 
             Console.ReadKey();
