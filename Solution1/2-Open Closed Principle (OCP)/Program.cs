@@ -1,5 +1,6 @@
 ﻿using _2_Open_Closed_Principle__OCP_.Logging_Service;
 using _2_Open_Closed_Principle__OCP_.Notification_Service;
+using _2_Open_Closed_Principle__OCP_.Payment_Service;
 
 namespace _2_Open_Closed_Principle__OCP_
 {
@@ -11,8 +12,10 @@ namespace _2_Open_Closed_Principle__OCP_
             // clsNotificationService.NotificationServiceDemo();
 
 
-            clsLoggingService.LoggingServiceDemo();
+            // clsLoggingService.LoggingServiceDemo();
 
+
+            clsPaymentService.PaymentServiceDemo();
 
 
             Console.ReadKey();
