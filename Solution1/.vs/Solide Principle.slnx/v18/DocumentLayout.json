@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\1 - single responsibility principle (srp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|solutionrelative:1 - single responsibility principle (srp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE865550-70CD-4F1E-9310-39A616DD1BFD}|2-Open Closed Principle (OCP)\\2-Open Closed Principle (OCP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\2-open closed principle (ocp)\\notification service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE865550-70CD-4F1E-9310-39A616DD1BFD}|2-Open Closed Principle (OCP)\\2-Open Closed Principle (OCP).csproj|solutionrelative:2-open closed principle (ocp)\\notification service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\1 - single responsibility principle (srp)\\login service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|solutionrelative:1 - single responsibility principle (srp)\\login service\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE865550-70CD-4F1E-9310-39A616DD1BFD}|2-Open Closed Principle (OCP)\\2-Open Closed Principle (OCP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\2-open closed principle (ocp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE865550-70CD-4F1E-9310-39A616DD1BFD}|2-Open Closed Principle (OCP)\\2-Open Closed Principle (OCP).csproj|solutionrelative:2-open closed principle (ocp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|c:\\users\\hp\\desktop\\solide-design-principle\\solution1\\1 - single responsibility principle (srp)\\notification service\\notification-service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3469FBEE-2C13-9271-302D-35082C9BA5D5}|1 - Single Responsibility Principle (SRP)\\1 - Single Responsibility Principle (SRP).csproj|solutionrelative:1 - single responsibility principle (srp)\\notification service\\notification-service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Program.cs",
-              "RelativeDocumentMoniker": "1 - Single Responsibility Principle (SRP)\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Program.cs*",
-              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Program.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Notification-Service.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
+              "RelativeDocumentMoniker": "1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
+              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Notification Service\\Notification-Service.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:30:30.648Z",
+              "WhenOpened": "2025-09-22T11:42:38.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\2-Open Closed Principle (OCP)\\Program.cs",
+              "RelativeDocumentMoniker": "2-Open Closed Principle (OCP)\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\2-Open Closed Principle (OCP)\\Program.cs",
+              "RelativeToolTip": "2-Open Closed Principle (OCP)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:43:28.859Z",
               "EditorCaption": ""
             }
           ]
@@ -51,15 +62,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
-              "RelativeDocumentMoniker": "1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
-              "RelativeToolTip": "1 - Single Responsibility Principle (SRP)\\Login Service\\LoginService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\2-Open Closed Principle (OCP)\\Notification Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "2-Open Closed Principle (OCP)\\Notification Service\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\2-Open Closed Principle (OCP)\\Notification Service\\NotificationService.cs*",
+              "RelativeToolTip": "2-Open Closed Principle (OCP)\\Notification Service\\NotificationService.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T14:54:10.895Z",
+              "WhenOpened": "2025-09-22T11:41:23.267Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "2-Open Closed Principle (OCP)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

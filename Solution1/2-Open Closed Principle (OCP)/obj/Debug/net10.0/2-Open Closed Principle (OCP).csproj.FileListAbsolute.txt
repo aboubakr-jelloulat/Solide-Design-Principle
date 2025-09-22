@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\bin\Debug\net10.0\2-Open Closed Principle (OCP).exe
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\bin\Debug\net10.0\2-Open Closed Principle (OCP).deps.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\bin\Debug\net10.0\2-Open Closed Principle (OCP).runtimeconfig.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\bin\Debug\net10.0\2-Open Closed Principle (OCP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\bin\Debug\net10.0\2-Open Closed Principle (OCP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).AssemblyInfo.cs
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).sourcelink.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\refint\2-Open Closed Principle (OCP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\2-Open Closed Principle (OCP).genruntimeconfig.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\2-Open Closed Principle (OCP)\obj\Debug\net10.0\ref\2-Open Closed Principle (OCP).dll
