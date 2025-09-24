@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "3 - Liskov Substitution Principle (LSP)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

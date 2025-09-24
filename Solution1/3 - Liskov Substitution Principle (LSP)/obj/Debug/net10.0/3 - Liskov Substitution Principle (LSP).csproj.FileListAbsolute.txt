@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\bin\Debug\net10.0\3 - Liskov Substitution Principle (LSP).exe
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\bin\Debug\net10.0\3 - Liskov Substitution Principle (LSP).deps.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\bin\Debug\net10.0\3 - Liskov Substitution Principle (LSP).runtimeconfig.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\bin\Debug\net10.0\3 - Liskov Substitution Principle (LSP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\bin\Debug\net10.0\3 - Liskov Substitution Principle (LSP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).AssemblyInfo.cs
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).sourcelink.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\refint\3 - Liskov Substitution Principle (LSP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\3 - Liskov Substitution Principle (LSP).genruntimeconfig.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\3 - Liskov Substitution Principle (LSP)\obj\Debug\net10.0\ref\3 - Liskov Substitution Principle (LSP).dll

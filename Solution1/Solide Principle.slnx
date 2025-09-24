@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="1 - Single Responsibility Principle (SRP)/1 - Single Responsibility Principle (SRP).csproj" />
   <Project Path="2-Open Closed Principle (OCP)/2-Open Closed Principle (OCP).csproj" Id="de865550-70cd-4f1e-9310-39a616dd1bfd" />
+  <Project Path="3 - Liskov Substitution Principle (LSP)/3 - Liskov Substitution Principle (LSP).csproj" Id="f5144873-42a4-4f81-963c-71b2e4cef190" />
 </Solution>
