@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "4 - Interface Segregation Principle (ISP)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

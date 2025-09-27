@@ -2,4 +2,6 @@
   <Project Path="1 - Single Responsibility Principle (SRP)/1 - Single Responsibility Principle (SRP).csproj" />
   <Project Path="2-Open Closed Principle (OCP)/2-Open Closed Principle (OCP).csproj" Id="de865550-70cd-4f1e-9310-39a616dd1bfd" />
   <Project Path="3 - Liskov Substitution Principle (LSP)/3 - Liskov Substitution Principle (LSP).csproj" Id="f5144873-42a4-4f81-963c-71b2e4cef190" />
+  <Project Path="4 - Interface Segregation Principle (ISP)/4 - Interface Segregation Principle (ISP).csproj" Id="f49971b3-c5e7-4f8f-a845-ce1d2b422d5b" />
+  <Project Path="5 - Dependency Inversion Principle (DIP)/5 - Dependency Inversion Principle (DIP).csproj" Id="be602d06-56e7-4f1c-ac6b-ee80fa5ec0a6" />
 </Solution>

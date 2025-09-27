@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\bin\Debug\net10.0\4 - Interface Segregation Principle (ISP).exe
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\bin\Debug\net10.0\4 - Interface Segregation Principle (ISP).deps.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\bin\Debug\net10.0\4 - Interface Segregation Principle (ISP).runtimeconfig.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\bin\Debug\net10.0\4 - Interface Segregation Principle (ISP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\bin\Debug\net10.0\4 - Interface Segregation Principle (ISP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).AssemblyInfo.cs
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).sourcelink.json
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\refint\4 - Interface Segregation Principle (ISP).dll
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).pdb
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\4 - Interface Segregation Principle (ISP).genruntimeconfig.cache
+C:\Users\HP\Desktop\Solide-Design-Principle\Solution1\4 - Interface Segregation Principle (ISP)\obj\Debug\net10.0\ref\4 - Interface Segregation Principle (ISP).dll

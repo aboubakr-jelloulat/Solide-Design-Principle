@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yht7BJ1VsYg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\5 - Dependency Inversion Principle (DIP)\\5 - Dependency Inversion Principle (DIP).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

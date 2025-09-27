@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVOXP/UPhqE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Solide-Design-Principle\\Solution1\\4 - Interface Segregation Principle (ISP)\\4 - Interface Segregation Principle (ISP).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0-preview.4\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0-preview.4.nupkg.sha512"
+  ],
+  "logs": []
+}

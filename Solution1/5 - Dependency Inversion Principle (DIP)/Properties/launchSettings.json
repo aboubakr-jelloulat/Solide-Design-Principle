@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "5 - Dependency Inversion Principle (DIP)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
